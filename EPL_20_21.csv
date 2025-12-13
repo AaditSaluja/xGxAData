@@ -79,34 +79,34 @@ Shola Shoretire,Manchester United,ENG,FW,16,2,0,11,0,0,8,75,0,0,0,0,0,0
 Odion Ighalo,Manchester United,NGA,FW,31,1,0,10,0,0,1,100,0,0,0,0,0,0
 Hannibal Mejbri,Manchester United,FRA,MF,17,1,0,9,0,0,3,100,0,0,0,0,0,0
 William Thomas Fish,Manchester United,ENG,DF,17,1,0,1,0,0,1,0,0,0,0,0,0,0
-Andrew Robertson,Liverpool FC,SCO,DF,26,38,38,3383,1,7,3214,79.9,0,0,0.04,0.18,1.52,6.84
-Mohamed Salah,Liverpool FC,EGY,FW,28,37,34,3078,22,5,1288,83.2,6,6,0.61,0.18,20.74,6.12
-Trent Alexander-Arnold,Liverpool FC,ENG,DF,21,36,34,3031,2,7,2941,75.3,0,0,0.08,0.24,2.72,8.16
-Georginio Wijnaldum,Liverpool FC,NED,MF,29,38,34,2941,2,0,1747,93.3,0,0,0.1,0.05,3.4,1.7
-Alisson,Liverpool FC,BRA,GK,27,33,33,2970,1,0,1137,85.2,0,0,0,0,0,0
-Roberto Firmino,Liverpool FC,BRA,FW,28,36,33,2838,9,7,1308,79.7,0,0,0.4,0.2,13.2,6.6
-Sadio Mané,Liverpool FC,SEN,FW,28,35,31,2810,11,7,1064,75.4,0,0,0.49,0.18,15.19,5.58
-Fabinho,Liverpool FC,BRA,"DF,MF",26,30,28,2567,0,0,2049,91.1,0,0,0.02,0.01,0.56,0.28
-Thiago Alcántara,Liverpool FC,ESP,MF,29,24,20,1854,1,0,1674,89.5,0,0,0.07,0.11,1.4,2.2
-Jordan Henderson,Liverpool FC,ENG,"MF,DF",30,21,20,1704,1,1,1812,86.8,0,0,0.09,0.07,1.8,1.4
-Nathaniel Phillips,Liverpool FC,ENG,DF,23,17,15,1456,1,1,1058,87.2,0,0,0.07,0.02,1.05,0.3
-Curtis Jones,Liverpool FC,ENG,MF,19,24,13,1179,1,2,976,91.2,0,0,0.11,0.12,1.43,1.56
-Diogo Jota,Liverpool FC,POR,FW,23,19,12,1112,9,0,451,72.5,0,0,0.53,0.13,6.36,1.56
-James Milner,Liverpool FC,ENG,"MF,DF",34,26,11,1070,0,1,913,84.9,0,0,0.04,0.1,0.44,1.1
-Ozan Kabak,Liverpool FC,TUR,DF,20,9,9,801,0,0,554,90.6,0,0,0.01,0.02,0.09,0.18
-Joël Matip,Liverpool FC,CMR,DF,28,10,9,691,1,2,527,88.4,0,0,0.08,0.14,0.72,1.26
-Rhys Williams,Liverpool FC,ENG,DF,19,9,7,661,0,0,451,92,0,0,0.07,0.05,0.49,0.35
-Naby Keïta,Liverpool FC,GUI,MF,25,10,7,520,0,0,356,87.4,0,0,0.09,0.14,0.63,0.98
-Joe Gomez,Liverpool FC,ENG,DF,23,7,6,590,0,0,532,90.2,0,0,0,0,0,0
-Xherdan Shaqiri,Liverpool FC,SUI,"MF,FW",28,14,5,556,0,2,426,83.6,0,0,0.06,0.49,0.3,2.45
-Virgil van Dijk,Liverpool FC,NED,DF,29,5,5,370,1,0,329,90,0,0,0.08,0,0.4,0
-Adrián,Liverpool FC,ESP,GK,33,3,3,270,0,0,99,76.8,0,0,0,0,0,0
-Neco Williams,Liverpool FC,WAL,DF,19,6,3,249,0,0,213,73.2,0,0,0.03,0.1,0.09,0.3
-Takumi Minamino,Liverpool FC,JPN,"MF,FW",25,9,2,293,1,0,139,79.9,0,0,0.2,0,0.4,0
-Alex Oxlade-Chamberlain,Liverpool FC,ENG,"FW,MF",26,13,2,253,1,1,138,75.4,0,0,0.13,0.08,0.26,0.16
-Divock Origi,Liverpool FC,BEL,FW,25,9,2,186,0,0,60,76.7,0,0,0.47,0.11,0.94,0.22
-Caoimhín Kelleher,Liverpool FC,IRL,GK,21,2,2,180,0,0,62,82.3,0,0,0,0,0,0
-Kostas Tsimikas,Liverpool FC,GRE,DF,24,2,0,7,0,0,8,75,0,0,0,0,0,0
+Andrew Robertson,Liverpool,SCO,DF,26,38,38,3383,1,7,3214,79.9,0,0,0.04,0.18,1.52,6.84
+Mohamed Salah,Liverpool,EGY,FW,28,37,34,3078,22,5,1288,83.2,6,6,0.61,0.18,20.74,6.12
+Trent Alexander-Arnold,Liverpool,ENG,DF,21,36,34,3031,2,7,2941,75.3,0,0,0.08,0.24,2.72,8.16
+Georginio Wijnaldum,Liverpool,NED,MF,29,38,34,2941,2,0,1747,93.3,0,0,0.1,0.05,3.4,1.7
+Alisson,Liverpool,BRA,GK,27,33,33,2970,1,0,1137,85.2,0,0,0,0,0,0
+Roberto Firmino,Liverpool,BRA,FW,28,36,33,2838,9,7,1308,79.7,0,0,0.4,0.2,13.2,6.6
+Sadio Mané,Liverpool,SEN,FW,28,35,31,2810,11,7,1064,75.4,0,0,0.49,0.18,15.19,5.58
+Fabinho,Liverpool,BRA,"DF,MF",26,30,28,2567,0,0,2049,91.1,0,0,0.02,0.01,0.56,0.28
+Thiago Alcántara,Liverpool,ESP,MF,29,24,20,1854,1,0,1674,89.5,0,0,0.07,0.11,1.4,2.2
+Jordan Henderson,Liverpool,ENG,"MF,DF",30,21,20,1704,1,1,1812,86.8,0,0,0.09,0.07,1.8,1.4
+Nathaniel Phillips,Liverpool,ENG,DF,23,17,15,1456,1,1,1058,87.2,0,0,0.07,0.02,1.05,0.3
+Curtis Jones,Liverpool,ENG,MF,19,24,13,1179,1,2,976,91.2,0,0,0.11,0.12,1.43,1.56
+Diogo Jota,Liverpool,POR,FW,23,19,12,1112,9,0,451,72.5,0,0,0.53,0.13,6.36,1.56
+James Milner,Liverpool,ENG,"MF,DF",34,26,11,1070,0,1,913,84.9,0,0,0.04,0.1,0.44,1.1
+Ozan Kabak,Liverpool,TUR,DF,20,9,9,801,0,0,554,90.6,0,0,0.01,0.02,0.09,0.18
+Joël Matip,Liverpool,CMR,DF,28,10,9,691,1,2,527,88.4,0,0,0.08,0.14,0.72,1.26
+Rhys Williams,Liverpool,ENG,DF,19,9,7,661,0,0,451,92,0,0,0.07,0.05,0.49,0.35
+Naby Keïta,Liverpool,GUI,MF,25,10,7,520,0,0,356,87.4,0,0,0.09,0.14,0.63,0.98
+Joe Gomez,Liverpool,ENG,DF,23,7,6,590,0,0,532,90.2,0,0,0,0,0,0
+Xherdan Shaqiri,Liverpool,SUI,"MF,FW",28,14,5,556,0,2,426,83.6,0,0,0.06,0.49,0.3,2.45
+Virgil van Dijk,Liverpool,NED,DF,29,5,5,370,1,0,329,90,0,0,0.08,0,0.4,0
+Adrián,Liverpool,ESP,GK,33,3,3,270,0,0,99,76.8,0,0,0,0,0,0
+Neco Williams,Liverpool,WAL,DF,19,6,3,249,0,0,213,73.2,0,0,0.03,0.1,0.09,0.3
+Takumi Minamino,Liverpool,JPN,"MF,FW",25,9,2,293,1,0,139,79.9,0,0,0.2,0,0.4,0
+Alex Oxlade-Chamberlain,Liverpool,ENG,"FW,MF",26,13,2,253,1,1,138,75.4,0,0,0.13,0.08,0.26,0.16
+Divock Origi,Liverpool,BEL,FW,25,9,2,186,0,0,60,76.7,0,0,0.47,0.11,0.94,0.22
+Caoimhín Kelleher,Liverpool,IRL,GK,21,2,2,180,0,0,62,82.3,0,0,0,0,0,0
+Kostas Tsimikas,Liverpool,GRE,DF,24,2,0,7,0,0,8,75,0,0,0,0,0,0
 Kasper Schmeichel,Leicester City,DEN,GK,33,38,38,3420,0,0,1218,72.7,0,0,0,0,0,0
 Youri Tielemans,Leicester City,BEL,MF,23,38,37,3357,6,4,2559,78.6,2,2,0.12,0.09,4.44,3.33
 Jamie Vardy,Leicester City,ENG,FW,33,34,31,2840,15,9,452,66.4,8,9,0.62,0.16,19.22,4.96
